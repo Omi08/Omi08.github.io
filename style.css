@@ -27,10 +27,6 @@
 	}
 }
 
-::selection {
-	background-color: var(--accent);
-}
-
 body {
 	display: flex;
 	background-color: var(--background);
